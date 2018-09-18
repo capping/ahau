@@ -1,0 +1,8 @@
+首页,https://jgxy.ahau.edu.cn/
+学院概况,https://jgxy.ahau.edu.cn/xygkx/index.htm
+师资队伍,https://jgxy.ahau.edu.cn/szdwx/index.htm
+学科平台,https://jgxy.ahau.edu.cn/xkpt/index.htm
+人才培养,https://jgxy.ahau.edu.cn/rcpyx/index.htm
+科学研究,https://jgxy.ahau.edu.cn/kxyjx/index.htm
+学生工作,https://jgxy.ahau.edu.cn/xsgz/index.htm
+招生就业,https://jgxy.ahau.edu.cn/zsjy/index.htm
